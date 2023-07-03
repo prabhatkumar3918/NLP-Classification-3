@@ -1,4 +1,4 @@
-# NLP-Classification-3
+# Fake News Detection Model
 Fake News Detection Using LSTM
 
 ABOUT THE PROJECT:
